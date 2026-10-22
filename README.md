@@ -1,1 +1,1 @@
-# gitignore-pratical
+# gitignore-practical
